@@ -13,4 +13,4 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Print message
-        runs: echo "welcome to github actions"
+        run: echo "welcome to github actions"
